@@ -1,1 +1,1 @@
-# APS360_Labs
+# APS360_Labs Artificial Intelligence Fundamentals  
